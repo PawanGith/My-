@@ -1,0 +1,6 @@
+<html>
+<h1> My details </h1>
+<p> My name is Pawan Panchole </p> 
+<p> I am sgsits student </p>
+<p> I am m-tech first year student </p> 
+</html>
